@@ -1,0 +1,1 @@
+bool getQRPoistionInfo(int postionInfo[], void* img, float resizePara, bool isCalibrate, float codeLength, float upCenterX, float lowerCenterY, bool isUp, int codeNumbers, int codeInfo[]);

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/firefly/Work/mylibs/libsCompile/opencv-2.4.9/apps/haartraining/createsamples.cpp
+cstdio
+-
+cstring
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+cvhaartraining.h
+/home/firefly/Work/mylibs/libsCompile/opencv-2.4.9/apps/haartraining/cvhaartraining.h
+
+/home/firefly/Work/mylibs/libsCompile/opencv-2.4.9/apps/haartraining/cvhaartraining.h
+

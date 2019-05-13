@@ -1,0 +1,11 @@
+make  all-am
+make[1]: Entering directory '/home/firefly/Work/mylibs/zbar-0.10'
+/bin/bash ./libtool --tag=CC   --mode=link gcc -Wall -Wno-parentheses  -shared -module -avoid-version -export-dynamic -export-symbols-regex initzbar  -o python/zbar.la -rpath /home/firefly/zbarLib/lib/python2.7/site-packages python/python_zbar_la-zbarmodule.lo python/python_zbar_la-enum.lo python/python_zbar_la-exception.lo python/python_zbar_la-symbol.lo python/python_zbar_la-symbolset.lo python/python_zbar_la-symboliter.lo python/python_zbar_la-image.lo python/python_zbar_la-processor.lo python/python_zbar_la-imagescanner.lo python/python_zbar_la-decoder.lo python/python_zbar_la-scanner.lo  zbar/libzbar.la  -ljpeg -lpthread 
+libtool: link: can not build a shared library
+libtool: link: See the libtool documentation for more information.
+libtool: link: Fatal configuration error.
+Makefile:999: recipe for target 'python/zbar.la' failed
+make[1]: *** [python/zbar.la] Error 1
+make[1]: Leaving directory '/home/firefly/Work/mylibs/zbar-0.10'
+Makefile:820: recipe for target 'all' failed
+make: *** [all] Error 2

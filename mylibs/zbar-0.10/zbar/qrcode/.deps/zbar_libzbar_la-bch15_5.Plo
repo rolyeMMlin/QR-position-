@@ -1,0 +1,6 @@
+zbar/qrcode/zbar_libzbar_la-bch15_5.lo: zbar/qrcode/bch15_5.c \
+ /usr/include/stdc-predef.h zbar/qrcode/bch15_5.h
+
+/usr/include/stdc-predef.h:
+
+zbar/qrcode/bch15_5.h:

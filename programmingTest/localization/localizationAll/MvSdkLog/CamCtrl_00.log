@@ -1,0 +1,31 @@
+[2019-03-04 10:01:28] | CInterfaceManager.cpp-L4664: CamCtrl[2020009], GigE SDKVersion(1040009), DriverVersion(1040001)
+[2019-03-04 10:01:29] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [1312768]
+[2019-03-04 10:01:29] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[-1904238720]
+[2019-03-04 10:01:29] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[-1895850112]
+[2019-03-04 10:04:50] | CInterfaceManager.cpp-L4664: CamCtrl[2020009], GigE SDKVersion(1040009), DriverVersion(1040001)
+[2019-03-04 10:04:51] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [1312768]
+[2019-03-04 10:04:51] | CInterfaceManager.cpp-L4664: CamCtrl[2020009], GigE SDKVersion(1040009), DriverVersion(1040001)
+[2019-03-04 10:04:51] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[-1445474432]
+[2019-03-04 10:04:51] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[-1453863040]
+[2019-03-04 10:04:51] | CInterfaceManager.cpp-L4664: CamCtrl[2020009], GigE SDKVersion(1040009), DriverVersion(1040001)
+[2019-03-04 10:04:52] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [1312768]
+[2019-03-04 10:04:52] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[-1560285312]
+[2019-03-04 10:04:52] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[-1568673920]
+[2019-03-04 10:04:53] | CInterfaceManager.cpp-L1208: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2019-03-04 10:04:53] | CInterfaceManager.cpp-L4323: DisplayProcess exit
+[2019-03-04 10:04:53] | CInterfaceManager.cpp-L4475: RecvThreadProcess exit
+[2019-03-04 10:04:54] | CInterfaceManager.cpp-L1208: getfcnt [0], getfcntsucceed[0], totalRecv[0] 
+[2019-03-04 10:04:54] | CInterfaceManager.cpp-L4323: DisplayProcess exit
+[2019-03-04 10:04:54] | CInterfaceManager.cpp-L4475: RecvThreadProcess exit
+[2019-03-04 10:05:16] | CInterfaceManager.cpp-L4664: CamCtrl[2020009], GigE SDKVersion(1040009), DriverVersion(1040001)
+[2019-03-04 10:05:17] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [1312768]
+[2019-03-04 10:05:17] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[1706012544]
+[2019-03-04 10:05:17] | CInterfaceManager.cpp-L4664: CamCtrl[2020009], GigE SDKVersion(1040009), DriverVersion(1040001)
+[2019-03-04 10:05:17] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[1714401152]
+[2019-03-04 10:05:18] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [1312768]
+[2019-03-04 10:05:18] | CInterfaceManager.cpp-L4664: CamCtrl[2020009], GigE SDKVersion(1040009), DriverVersion(1040001)
+[2019-03-04 10:05:18] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[1322246016]
+[2019-03-04 10:05:18] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[1330634624]
+[2019-03-04 10:05:19] | CInterfaceManager.cpp-L1066: remalloc RecvBuf succeed, [1312768]
+[2019-03-04 10:05:19] | CInterfaceManager.cpp-L4335: Camctrl RecvThread Start, ThreadId[1285541760]
+[2019-03-04 10:05:19] | CInterfaceManager.cpp-L4149: Camctrl DisplayThread Start, ThreadId[939519872]

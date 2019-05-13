@@ -1,0 +1,14 @@
+grep: input file ‘/home/firefly/Work/mylibs/zbar-0.10/log’ is also the output
+/home/firefly/Work/mylibs/zbar-0.10/perl/ZBar.xs:	RETVAL = zbar_scan_image(scanner, image);
+/home/firefly/Work/mylibs/zbar-0.10/python/imagescanner.c:    int n = zbar_scan_image(self->zscn, img->zimg);
+/home/firefly/Work/mylibs/zbar-0.10/gtk/zbargtk.c:    int rc = zbar_scan_image(zbar->scanner, tmp);
+/home/firefly/Work/mylibs/zbar-0.10/examples/scan_image.c:    int n = zbar_scan_image(scanner, image);
+/home/firefly/Work/mylibs/zbar-0.10/zbar/processor.c:        int nsyms = zbar_scan_image(proc->scanner, tmp);
+/home/firefly/Work/mylibs/zbar-0.10/zbar/img_scanner.c:int zbar_scan_image (zbar_image_scanner_t *iscn,
+/home/firefly/Work/mylibs/zbar-0.10/zbar/img_scanner.c:int myzbar_scan_image (zbar_image_scanner_t *iscn,
+/home/firefly/Work/mylibs/zbar-0.10/include/zbar.h:extern int zbar_scan_image(zbar_image_scanner_t *scanner,
+/home/firefly/Work/mylibs/zbar-0.10/include/zbar.h:extern int myzbar_scan_image(zbar_image_scanner_t *scanner,
+/home/firefly/Work/mylibs/zbar-0.10/include/zbar/ImageScanner.h:    /// see zbar_scan_image()
+/home/firefly/Work/mylibs/zbar-0.10/include/zbar/ImageScanner.h:        return(zbar_scan_image(_scanner, image));
+/home/firefly/Work/mylibs/zbar-0.10/include/zbar/ImageScanner.h:        return(myzbar_scan_image(_scanner, image, myDensity));
+/home/firefly/Work/mylibs/zbar-0.10/include/zbar/ImageScanner.h:    /// see zbar_scan_image()
